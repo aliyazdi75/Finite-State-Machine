@@ -1,0 +1,15 @@
+
+__________________________________________________((IN THE NAME OF ALLAH))______________________________________________
+________________________________________________________________________________________________________________________
+>> cmnd right arrow;
+>> enter in anywhere;
+>> right in adrs allow when cursor is end just;
+>> in reset remove everything;
+>> msg there is no stop word in fld scr continue or not?;
+________________________________________________________________________________________________________________________
+>> Report(search time, address(in scr brows) with arrow keys and select tree, separate save, smart UI, >> msg there is
+no stop word in fld scr, first use number then use linked list in tree in delete, father before, about this note, tst
+like avl, tree father and other const, hash func, separate addBSTNode, use bst in hashNode to speed);
+>> comments;
+________________________________________________________________________________________________________________________
+>> reWrite code :----)
