@@ -181,7 +181,6 @@ public class UI extends JFrame {
         });
         btnExt.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent e) {
-
                 System.exit(0);
             }
         });
